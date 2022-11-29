@@ -1,0 +1,86 @@
+body {
+    padding: 0;
+    margin: 0 auto;
+    background-image: url(../img/Group\ 5.png)
+}
+
+.rightside {
+    text-align: center;
+    padding-top: 200px;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.rightside h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 55px;
+}
+
+.rightside h5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.try {
+    min-height: 60px;
+    margin-top: 70px;
+    background: #5E54A4;
+    box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.14688);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.try span {
+    text-align: center;
+    color: #FFFFFF;
+    padding-left: 2px;
+    font-family: 'Poppins';
+    font-size: 27px;
+    font-weight: 700;
+
+}
+
+.login {
+    padding: 40px;
+    min-height: 530px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.14688);
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+.login p {
+    color: rgba(186, 183, 212, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login span {
+    color: red;
+    margin-left: 5px;
+
+}
+
+.claim {
+    width: 100%;
+    min-height: 54px;
+    background: #77E2B3;
+    box-shadow: inset 0px -4px 0px rgba(0, 0, 0, 0.0908818);
+    border-radius: 5px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+}
